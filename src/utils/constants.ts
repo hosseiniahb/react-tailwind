@@ -14,13 +14,13 @@ import { T_SidebarLink } from "../types";
 import { PiTelevisionFill } from "react-icons/pi";
 
 // Logo Website
-export const logo: string = "/src/assets/logo.svg";
+export const logo: string = "/logo.svg";
 
 // Demo banner for when the selected channel does not have a special banner
-export const demoBannerChannel: string = "/src/assets/demoBannerChannel.webp";
+export const demoBannerChannel: string = "/demoBannerChannel.webp";
 
 // Thumbnail demo for when some videos don't have a specific thumbnail
-export const demoThumbnail: string = "/src/assets/thumbnail.jpg";
+export const demoThumbnail: string = "/thumbnail.jpg";
 
 // Category links in sidebar
 export const sidebarLinks: T_SidebarLink[] = [
